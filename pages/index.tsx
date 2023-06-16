@@ -25,10 +25,10 @@ export default function Home() {
         ...messages,
         {
           role: "assistant",
-          content: `Se ha alcanzado el límite de mensajes. Si tienes más dudas, siempre puedes contactar con Alejandra a través de:
-    Correo:  alegarciamundi@gmail.com 
-    Teléfono:  647228460 	
-    LinkedIn:  http://www.linkedin.com/in/alejandra-garc%C3%ADa-mundi
+          content: `Se ha alcanzado el límite de mensajes. Si tienes más dudas, siempre puedes contactar con _____________ a través de:
+    Correo:  XXXXXXXX
+    Teléfono:  XXXXXXXXXX
+    LinkedIn:  XXXXXXXXXXXXXXXX
           `,
         },
       ]);

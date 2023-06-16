@@ -7,19 +7,19 @@ export const Navbar: FC = () => {
         <a href="mailto:alegarciamundi@gmail.com" style={{ marginRight: '20px' }} target="_blank" rel="noopener noreferrer">
           <img src="/gmail.png" alt="Logo" className="h-10 w-10 sm:h-10 sm:w-10" style={{ backgroundColor: 'transparent', objectFit: 'contain' }} />
         </a>
-        <a href="https://www.linkedin.com/in/alejandra-garc%C3%ADa-mundi/" style={{ marginRight: '20px' }} target="_blank" rel="noopener noreferrer">
+        <a href="LINK" style={{ marginRight: '20px' }} target="_blank" rel="noopener noreferrer">
           <img src="/linkedin.png" alt="Logo" className="h-10 w-10 sm:h-10 sm:w-10" style={{ backgroundColor: 'transparent', objectFit: 'contain' }} />
         </a>
       </div>
       <div className="font-bold text-3xl flex items-center justify-center">
         <a
           className="ml-2 hover:opacity-50"
-          href="https://www.linkedin.com/in/alejandra-garc%C3%ADa-mundi/"
+          href="LINK"
           style={{ color: 'inherit', textDecoration: 'none' }}
           target="_blank"
           rel="noopener noreferrer"
         >
-          Alejandra García Mundi
+          NAME
         </a>
       </div>
       <div></div>
