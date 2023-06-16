@@ -16,7 +16,9 @@ ResumeBot es un proyecto que se basa en un chatbot que incluye la información d
 
 
 ## Uso
-
+### ``En la pestaña de Utils -> index se indica dentro del codigo donde añadir la infomación sobre la persona``
+### ``En la perstaña Pages -> API -> index se indican los campos a modificar para ajustarlo a la persona a representar``
+### ``En la pestala Components -> Layout -> Navbar es necesario añadir los links a las RRSS de la persona``
 
 ## Contribución
 
