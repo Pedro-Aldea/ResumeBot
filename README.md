@@ -1,29 +1,28 @@
 # ResumeBot
 
-## Descripción
+## Description
 
-ResumeBot es un proyecto que se basa en un chatbot que incluye la información de un currículum. Este bot permite mantener una conversación interactiva, proporcionando información sobre el currículum de una persona de manera accesible y eficiente. Es una herramienta ideal para realizar una primera entrevista virtual, facilitando el proceso de selección y reclutamiento.
+ResumeBot is a project based on a chatbot that includes information from a resume. This bot allows for an interactive conversation, providing information about a person's resume in an accessible and efficient manner. It is an ideal tool for conducting a preliminary virtual interview, streamlining the selection and recruitment process.
 
-## Instalación
+## Installation
 
-1. Clona el repositorio:
+1. Clone the repository:
 
 ``git clone https://github.com/Pedro-Aldea/ResumeBot.git``
 
-2. Navega hasta el directorio del proyecto:
+2. Navigate to the project directory:
 
 ``cd ResumeBot``
 
+## Usage
+### ``In the Utils -> index tab, the code indicates where to add the information about the person.``
+### ``In the Pages -> API -> index tab, the fields to modify to fit the person to be represented are indicated.``
+### ``In the Components -> Layout -> Navbar tab, it is necessary to add the person's social media links.``
 
-## Uso
-### ``En la pestaña de Utils -> index se indica dentro del codigo donde añadir la infomación sobre la persona``
-### ``En la perstaña Pages -> API -> index se indican los campos a modificar para ajustarlo a la persona a representar``
-### ``En la pestala Components -> Layout -> Navbar es necesario añadir los links a las RRSS de la persona``
+## Contribution
 
-## Contribución
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Las solicitudes de pull son bienvenidas. Para cambios importantes, por favor abre primero un issue para discutir lo que te gustaría cambiar.
-
-## Licencia
+## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
